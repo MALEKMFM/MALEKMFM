@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MALEKMFM
 - 👀 I’m interested in programming and problem solving, iam also intrested in IPTV configuration.
-- 🌱 I’m currently learning JS, Py, Java, C#
+- 🌱 I’m currently learning JS, Py, C#
 - 💞️ I’m looking to collaborate on Front-end and Back-end projects, arduino projects and iptv installations
 - 📫 How to reach me: Malekmshensh@gmail.com, Facebook: Malek Mshinesh Instagram: Malek Mshinesh, Snapchat: Malekmm5436
 
